@@ -1,6 +1,6 @@
 # logintest
 PHP
-fasfasdfa
+
 
 login.php: main page, login, register
 changePassword.php: change password;
