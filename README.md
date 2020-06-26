@@ -1,7 +1,5 @@
 # logintest
 PHP
-
-
 login.php: main page, login, register
 changePassword.php: change password;
 logout.php: logout;
